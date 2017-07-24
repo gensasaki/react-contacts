@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
 class CreateContact extends Component {
   render() {
@@ -8,4 +8,4 @@ class CreateContact extends Component {
   }
 }
 
-export default CreateContact
+export default CreateContact;
